@@ -1,0 +1,41 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+}
+
+li {
+  display: block;
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+button a {}
+
+.google-logo {
+  position: absolute;
+  margin: 10em 32.5em;
+}
+
+.feeling-lucky {
+  position: absolute;
+  margin: 20em 32.5em;
+  width: 400px;
+}
+
+#searchbar {
+  position: absolute;
+  top: 260px;
+  left: 375px;
+  width: 580px;
+  height: 30px;
+  border: 1px solid #cdcdcd;
+}
